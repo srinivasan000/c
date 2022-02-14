@@ -17,6 +17,8 @@ float              ->    %a,%e,%f,%g       ->   4bytes
 double             ->   %la,%le,%lf,%lg    ->   8bytes
 long double        ->   %LA,%LE,%LF,%LG    ->   12bytes
 
+boolean           ->      %d               ->   1 or 0
+
 ///////////////////// reference data types ////////////////////////
  array
  string

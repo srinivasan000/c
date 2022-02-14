@@ -9,7 +9,7 @@ int global;
 void main(){
     int a, b;
     char c = 's';
-    float d;
+   static float d;
     printf("\nname  %s", name);
     printf("\nchar is '%c'", c);
     global = 5;
