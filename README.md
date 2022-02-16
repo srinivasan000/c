@@ -22,6 +22,6 @@
 <Li>enum datatype</li>
 <Li>union datatype</li>
 <Li>structure datatype</li>
-<Li>FILE structure </li>
+<Li>FILE pointer </li>
 <Li>library files</li>
 </ol>
