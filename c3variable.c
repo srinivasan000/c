@@ -2,6 +2,7 @@
 variable is named memory location and stored data value.
 datatype identifier = value;
 */
+//local,global,const,#define,static,extern
 #include<stdio.h>
 #include<conio.h>
 #define name "srinivasan"

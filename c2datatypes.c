@@ -17,7 +17,13 @@ float              ->    %a,%e,%f,%g       ->   4bytes
 double             ->   %la,%le,%lf,%lg    ->   8bytes
 long double        ->   %LA,%LE,%LF,%LG    ->   12bytes
 
-boolean           ->      %d               ->   1 or 0
+bool           ->      %d               ->   1 or 0
+
+
+%s-string
+%p-addres
+%o-octal
+%x-exha
 
 ///////////////////// reference data types ////////////////////////
  array
